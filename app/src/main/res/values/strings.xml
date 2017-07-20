@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UDViewPager</string>
+    <string name="me">我</string>
+    <string name="discover">发现</string>
+    <string name="contact">通讯录</string>
+    <string name="chat">聊天</string>
+    <string name="invisible1">invisible1</string>
+    <string name="invisible2">invisible2</string>
+    <string name="invisible3">invisible3</string>
+</resources>
